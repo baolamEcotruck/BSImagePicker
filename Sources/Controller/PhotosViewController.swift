@@ -316,7 +316,7 @@ extension PhotosViewController {
             return
         }
         
-        cell.startLiveBackground() // Start live background
+//        cell.startLiveBackground() // Start live background
     }
 }
 
